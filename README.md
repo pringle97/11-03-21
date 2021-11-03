@@ -13,6 +13,7 @@ class can be used multiple times
 can make a class of green and give it to everyone
 can put multiple classes in one line
 id>class>tag
+or, !important overrides, but don't use unless you have to
 
 <h1 id="myHeading"></h1>
 <h1 class="headings">
@@ -20,4 +21,6 @@ id>class>tag
 can change whatever is in the >< but not the commands outside (h1, id, etc)
 
 camel case: myFavoriteBand, myHeading
+
+developer tools on chrome, inspect or ctrl shift i, need to put whatever u edited into vs code, does not transfer
 
