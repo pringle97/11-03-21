@@ -31,3 +31,5 @@ divs are block element, takes up everything left or right of it
       <div class="col-sm-6">d</div>
       <div class="col-sm-6">e</div>
 </div>
+
+alt shift up+down (copy paste above and below)
