@@ -19,3 +19,15 @@ camel case: myFavoriteBand, myHeading
 developer tools on chrome, inspect or ctrl shift i, need to put whatever u edited into vs code, does not transfer
 
 divs are block element, takes up everything left or right of it
+
+
+
+
+<div class="container">
+  <div class="col-sm-4">a</div>
+  <div class="col-sm-4">b</div>
+  <div class="col-sm-4">c</div>
+    <div class="row"></div>
+      <div class="col-sm-6">d</div>
+      <div class="col-sm-6">e</div>
+</div>
